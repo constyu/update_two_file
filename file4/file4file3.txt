@@ -1,3 +1,5 @@
 I AM FILE2 FILE3
 add
 I AM FILE4 FILE1
+
+test before commit and after stage and signoff
