@@ -7,3 +7,4 @@ test before commit and after stage and signoff
 midify 1
 midify 2
 midify 3
+midify 4
