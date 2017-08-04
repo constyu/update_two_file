@@ -5,3 +5,4 @@ I AM FILE4 FILE1
 test before commit and after stage and signoff
 
 midify 1
+midify 2
